@@ -1,2 +1,3 @@
 # Indice-de-Atividade-Economica-
 Índice de Atividade Econômica do Brasil 
+Realiza análise do Índice de Atividade Econômica do Brasil, utilizando técnicas de modelagem de séries temporais. Realiza análise exploratória dos dados, identifica tendências e sazonalidade, aplica técnicas de diferenciação e transformação para tornar os dados estacionários. Estima modelos de séries temporais, incluindo modelos ARIMA e modelos de suavização exponencial, e seleciona o melhor modelo com base nos critérios de informação. Realiza diagnóstico e validação do modelo, e produz gráficos para visualizar os resultados e interpretar as previsões futuras.
